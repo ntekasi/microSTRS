@@ -24,8 +24,7 @@ The following software and packages were used to run this project:
 ### Alignment
 - An earlier version (as found in the relevant subdirectory) for the slidesnake pipeline was used for alignment 
 ### Data generated for this paper:
-Data will be made available upon publication under GEO accession numbers; GSE276866 for the low-resolution datasets, GSE277196, GSE277197 and GSE277255 for the high-resolution datasets.
-
+Data will be made available upon publication under GEO accession numbers; GSE276866 for the low-resolution datasets, GSE277196, GSE277197, and GSE308507, GSE316608 and GSE316962 for the high-resolution datasets, and GSE316869 for the bulk RNA-seq datasets. 
 
 ## Contact:
 - Iwijn De Vlaminck (id93@cornell.edu)
